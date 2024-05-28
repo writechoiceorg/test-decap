@@ -5,9 +5,13 @@ tags:
   - foo
   - bar
 authors:
-  - name: Garrison McMullen
-    title: Instruction Writer
-    url: https://github.com/garrison0
-    image_url: https://avatars.githubusercontent.com/u/4089393?v=4
+  - name: Heitor
+    title: Tester
+    url: writechoice.io
+    imageUrl: https://media.licdn.com/dms/image/D4D0BAQFm99CGLCggEQ/company-logo_200_200/0/1707828960215/write_choice_technical_writing_services_logo?e=1724889600&v=beta&t=OqELagLHPvrn-HqMxN-pgUYraQLsPuZIJCKx6UULDSg
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat.
+
+
+
+Test Update.
