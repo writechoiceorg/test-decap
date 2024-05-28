@@ -2,6 +2,15 @@ backend:
   name: github
   branch: main
   repo: writechoiceorg/test-decap
+  commit_messages:
+    create: doc:create {{collection}} by {{author-name}} at “{{slug}}”
+    update: doc:update {{collection}} by {{author-name}} at “{{slug}}”
+    delete: doc:delete {{collection}} by {{author-name}} at “{{slug}}”
+    uploadMedia: doc:upload image “{{path}}”
+    deleteMedia: doc:delete image “{{path}}”
+    openAuthoring: '{{message}}'
+
+publish_mode: editorial_workflow
 
 # These lines should *not* be indented
 media_folder: "my-website/static/img" # Media files will be stored in the repo under static/images/uploads
