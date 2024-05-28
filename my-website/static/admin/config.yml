@@ -4,7 +4,7 @@ backend:
   repo: writechoiceorg/test-decap
 
 # These lines should *not* be indented
-media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
+media_folder: "my-webpage/static/img" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
