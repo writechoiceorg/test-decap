@@ -49,7 +49,6 @@ collections:
   fields:
     - {name: title, label: Title, widget: string }
     - {name: sidebar_position, label: Sidebar position, widget: number} 
-    - { name: title, label: Title, widget: string}
     - {name: description, label: Description, widget: string}
   sortableFields: ["title", "sidebar_position"]
   extension: md
